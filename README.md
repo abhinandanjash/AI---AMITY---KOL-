@@ -1,6 +1,5 @@
-# Artificial Intelligence Lab Solutions (CSE401) - Amity University
 
-This repository contains fully formatted, properly indented, and standalone Python implementations for Artificial Intelligence Lab experiments (Q1 to Q5).
+
 
 ---
 
